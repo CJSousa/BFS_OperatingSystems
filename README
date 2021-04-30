@@ -1,0 +1,4 @@
+The goal of this assignment is to complete a “file system dump” operation of a simple file system, which is inspired
+by some UNIX-like file systems (MinixFS and UFS). The Basic File System (BFS) does not use the full features of 
+the abovementioned FSs, like subdirectories or permission checking. However, space is reserved for a single, 
+fixed-size, directory.
